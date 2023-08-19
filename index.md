@@ -1,14 +1,16 @@
 ---
 layout: default
-title: Daily Offers
+title: Oferta Ditore
 ---
 
-# Welcome to Daily Offers
+# Mirë se vini
 
-Find the best deals and offers every day right here!
+Na vizitoni cdo dite që të gjeni ofertat ditore më të mira nga Tannins dhe Partnerët tanë!
 
-## Today's Top Offers:
+## Ofertat më të mira:
 
 {% for offer in site.data.offers %}
-- [{{ offer.title }}]({{ offer.link }}) - {{ offer.description }}
+### [{{ offer.title }}]({{ offer.link }})
+![{{ offer.title }}]({{ offer.image }}){: .offer-img}
+{{ offer.description }}
 {% endfor %}
