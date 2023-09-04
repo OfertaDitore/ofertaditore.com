@@ -13,7 +13,7 @@ title: Oferta Ditore
 
 <div id="offersList" class="row ">
 {% for offer in site.data.offers %}
-	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 offer-item">
+	<div class="col-sm-12 col-md-12 col-lg-4 .col-xl-4 offer-item">
 		<div class="card">
 		  <img class="card-img-top" src="{{ offer.image }}" alt="Card image cap">
 		  <div class="card-body">
