@@ -1,3 +1,71 @@
+
+
+- title: "Intersport"
+  description: "Produkte dhe veshje sportive të modës së fundit për meshkuj, femra dhe fëmijë ju presin në dyqanin online INTERSPORT."
+  link: "https://intersportks.com/"
+  image: "/assets/img/intersport.jpeg"
+
+
+- title: "Koton"
+  description: "Kapni valën e një zbritjeje të madhe sezonale me kursime të konsiderueshme ☀️ deri në -70% në të gjitha dyqanet KOTON dhe Online."
+  link: "https://www.facebook.com/KotonKosova"
+  image: "/assets/img/koton.jpeg"
+
+- title: "Buzz Sneaker Store"
+  description: "Shfrytëzoni Zbritjen e fundit të sezonës!"
+  link: "https://www.instagram.com/buzzsneakerstation/"
+  image: "/assets/img/buzz.jpeg"
+
+- title: "Idea M"
+  description: "Material shkollor dhe material per zyre."
+  link: "https://www.facebook.com/ideastore.ks"
+  image: "/assets/img/ideam.jpeg"
+
+- title: "Garda Shoes"
+  description: "Deri ne 70% zbritje. Garda Shoes permban brendet si: Timberland, Guess, Replay, Geos, Skechers, Under Armour."
+  link: "https://www.facebook.com/gardashoes.rks"
+  image: "/assets/img/gardashoes.jpeg"
+
+- title: "Lindex"
+  description: "Lindex offers a wide assortment of womenswear, underwear, kidswear and baby clothes."
+  link: "https://www.facebook.com/Lindex"
+  image: "/assets/img/lindex.jpeg"
+
+- title: "Jack&Jones"
+  description: "Xhinset dhe pantallonat i gjeni me 𝟱𝟬% 𝗭𝗕𝗥𝗜𝗧𝗝𝗘 në rast se i bleni 2 palë. Zbritja aplikohet tek modeli me çmimin më të lirë"
+  link: "https://www.facebook.com/jackandjoneskosova"
+  image: "/assets/img/jackjones.jpeg"
+
+- title: "Matmazel"
+  description: "Handmade bags&shoes"
+  link: "https://www.instagram.com/matmazelstore.ks"
+  image: "/assets/img/matmazel.jpeg"
+
+- title: "Gamestar"
+  description: "Bejmë shitjen dhe servisimin e Sony Playstation."
+  link: "https://www.facebook.com/gamestarks"
+  image: "/assets/img/gamestar.png"
+
+- title: "Othman Home"
+  description: "Elegancë minimaliste dhe bukuri e kontrasteve, koleksioni ynë i ri i pjatave i ka të gjitha!🖤"
+  link: "https://www.facebook.com/othman.home"
+  image: "/assets/img/othoman.jpeg"
+
+- title: "Kimark"
+  description: "Kimark ju mirepret me oferta te reja."
+  link: "https://www.facebook.com/profile.php?id=100078508849286"
+  image: "/assets/img/kimark.jpeg"
+
+- title: "ADL"
+  description: "Në kohë me modën, ku secila do të gjejë ngjyrën e saj!"
+  link: "https://www.facebook.com/adlkosova"
+  image: "/assets/img/adl.jpeg"
+
+- title: "Sizeer"
+  description: "Shfrytëzoni Zbritjen e fundit të sezonës!"
+  link: "https://www.instagram.com/sizeerks/"
+  image: "/assets/img/sizeer.jpeg"
+
 - title: "Derimod"
   description: "Zbritjet finale kanë filluar në Derimod "
   link: "https://www.facebook.com/DerimodKS/"
@@ -8,60 +76,20 @@
   link: "https://www.facebook.com/p/US-Polo-Assn-Kosova-100025054753371/"
   image: "/assets/img/uspolo.jpg"
 
-- title: "Lindex"
-  description: "Lindex offers a wide assortment of womenswear, underwear, kidswear and baby clothes."
-  link: "https://www.facebook.com/Lindex"
-  image: "/assets/img/lindex.jpeg"
-
 - title: "Green Med"
   description: "Produkte te ndryshme per perkujdesje ndaj lekures per cdo lloj te lekures."
   link: "https://www.facebook.com/greenmed.ks"
   image: "/assets/img/greenmed.jpeg"
-
-- title: "Koton"
-  description: "Kapni valën e një zbritjeje të madhe sezonale me kursime të konsiderueshme ☀️ deri në -70% në të gjitha dyqanet KOTON dhe Online."
-  link: "https://www.facebook.com/KotonKosova"
-  image: "/assets/img/koton.jpeg"
 
 - title: "Perspective"
   description: "NGJYRAT DHE KOMODITETI I NATYRËS TAKOHEN ME DIZAJNE TËRHEQËSE DHE MJESHTËRI TË PËRSOSUR.TË PËRJETSHME DHE REHATSHME"
   link: "https://www.facebook.com/KotonKosova"
   image: "/assets/img/perspektive.jpeg"
 
-- title: "Jack&Jones"
-  description: "Xhinset dhe pantallonat i gjeni me 𝟱𝟬% 𝗭𝗕𝗥𝗜𝗧𝗝𝗘 në rast se i bleni 2 palë. Zbritja aplikohet tek modeli me çmimin më të lirë"
-  link: "https://www.facebook.com/jackandjoneskosova"
-  image: "/assets/img/jackjones.jpeg"
-
 - title: "Nocturne"
   description: " Nocturne is a fashion brand which designs, manufactures, distributes and retails ready to wear.📍@prishtinamall Kati 0"
   link: "https://www.instagram.com/nocturne.kosova/"
   image: "/assets/img/nocturne.jpeg"
-
-- title: "Idea M"
-  description: "Material shkollor dhe material per zyre."
-  link: "https://www.facebook.com/ideastore.ks"
-  image: "/assets/img/ideam.jpeg"
-
-- title: "Gamestar"
-  description: "Bejmë shitjen dhe servisimin e Sony Playstation."
-  link: "https://www.facebook.com/gamestarks"
-  image: "/assets/img/gamestar.png"
-
-- title: "Kimark"
-  description: "Kimark ju mirepret me oferta te reja."
-  link: "https://www.facebook.com/profile.php?id=100078508849286"
-  image: "/assets/img/kimark.jpeg"
-
-- title: "Othoman Home"
-  description: "Elegancë minimaliste dhe bukuri e kontrasteve, koleksioni ynë i ri i pjatave i ka të gjitha!🖤"
-  link: "https://www.facebook.com/othman.home"
-  image: "/assets/img/othoman.jpeg"
-
-- title: "ADL"
-  description: "Në kohë me modën, ku secila do të gjejë ngjyrën e saj!"
-  link: "https://www.facebook.com/adlkosova"
-  image: "/assets/img/adl.jpeg"
 
 - title: "Faik Sönmez"
   description: "Hoş Geldiniz! Online Alışveriş: www.faiksonmez.com Keyifli alışveriş parmaklarınızın ucunda. Üstelik"
@@ -84,17 +112,6 @@
   link: "https://www.facebook.com/RosaCaninaPharmacy"
   image: "/assets/img/rosacanina.jpeg"
 
-- title: "Matmazel"
-  description: "Handmade bags&shoes"
-  link: "https://www.instagram.com/matmazelstore.ks"
-  image: "/assets/img/matmazel.jpeg"
-
-- title: "Garda Shoes"
-  description: "Deri ne 70% zbritje. Garda Shoes permban brendet si: Timberland, Guess, Replay, Geos, Skechers, Under Armour."
-  link: "https://www.facebook.com/gardashoes.rks"
-  image: "/assets/img/gardashoes.jpeg"
-
-
 - title: "Gerbera Flower Shop"
   description: "Dashuro me stil 👌, dhuro me zemër❤️"
   link: ""
@@ -109,16 +126,6 @@
   description: "Veshje te brendshme per femra dhe meshkuj"
   link: "https://www.facebook.com/bonattikosovo"
   image: "/assets/img/bonatti.jpeg"
-
-- title: "Intersport"
-  description: "Produkte dhe veshje sportive të modës së fundit për meshkuj, femra dhe fëmijë ju presin në dyqanin online INTERSPORT."
-  link: "https://intersportks.com/"
-  image: "/assets/img/intersport.jpeg"
-
-- title: "Sizeer"
-  description: "Shfrytëzoni Zbritjen e fundit të sezonës!"
-  link: "https://www.instagram.com/sizeerks/"
-  image: "/assets/img/sizeer.jpeg"
 
 - title: "Steps"
   description: "Shfrytëzoni Zbritjen e fundit të sezonës!"
@@ -154,7 +161,6 @@
   description: "Shfrytëzoni Zbritjen e fundit të sezonës!"
   link: "https://www.instagram.com/fortesa__boutique/"
   image: "/assets/img/aliexavien.png"
-
 
 
 
