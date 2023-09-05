@@ -21,7 +21,7 @@
     </footer>
 
     <script>
-    document.getElementById('offerSearch').addEventListener('input', function() {
+    $document.getElementById('offerSearch').addEventListener('input', function() {
         let searchTerm = this.value.toLowerCase();
         let offers = document.querySelectorAll('.offer-item');
 
