@@ -1,9 +1,40 @@
 - title: "Derimod"
-  description: "Derimod"
+  description: "Zbritjet finale kanë filluar në Derimod "
   link: "https://www.facebook.com/DerimodKS/"
   image: "/assets/img/derimod.jpg"
   
 - title: "US Polo"
-  description: "Pershkrimi i kompanise"
-  link: "hhttps://www.facebook.com/p/US-Polo-Assn-Kosova-100025054753371/"
+  description: "Zbritjet finale kanë filluar në US POLO"
+  link: "https://www.facebook.com/p/US-Polo-Assn-Kosova-100025054753371/"
   image: "/assets/img/uspolo.jpg"
+
+- title: "Lindex"
+  description: "Lindex offers a wide assortment of womenswear, underwear, kidswear and baby clothes."
+  link: "https://www.facebook.com/Lindex"
+  image: "/assets/img/lindex.jpeg"
+
+- title: "Green Med"
+  description: "Produkte te ndryshme per perkujdesje ndaj lekures per cdo lloj te lekures."
+  link: "https://www.facebook.com/greenmed.ks"
+  image: "/assets/img/greenmed.jpeg"
+
+- title: "Koton"
+  description: "Kapni valën e një zbritjeje të madhe sezonale me kursime të konsiderueshme ☀️ deri në -70% në të gjitha dyqanet KOTON dhe Online."
+  link: "https://www.facebook.com/KotonKosova"
+  image: "/assets/img/koton.jpeg"
+
+- title: "Perspective"
+  description: "NGJYRAT DHE KOMODITETI I NATYRËS TAKOHEN ME DIZAJNE TËRHEQËSE DHE MJESHTËRI TË PËRSOSUR.TË PËRJETSHME DHE REHATSHME"
+  link: "https://www.facebook.com/KotonKosova"
+  image: "/assets/img/perspektive.jpeg"
+
+- title: "Jack&Jones"
+  description: "Xhinset dhe pantallonat i gjeni me 𝟱𝟬% 𝗭𝗕𝗥𝗜𝗧𝗝𝗘 në rast se i bleni 2 palë. Zbritja aplikohet tek modeli me çmimin më të lirë"
+  link: "https://www.facebook.com/jackandjoneskosova"
+  image: "/assets/img/jackjones.jpeg"
+
+- title: "Nocturne"
+  description: " Nocturne is a fashion brand which designs, manufactures, distributes and retails ready to wear.📍@prishtinamall Kati 0"
+  link: "https://www.instagram.com/nocturne.kosova/"
+  image: "/assets/img/nocturne.jpeg"
+
